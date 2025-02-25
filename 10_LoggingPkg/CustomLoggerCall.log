@@ -1,0 +1,5 @@
+11-07-2023 01:14:07 PM -CustomLoggerCall- DEBUG : debug message
+11-07-2023 01:14:07 PM -CustomLoggerCall- INFO : info message
+11-07-2023 01:14:07 PM -CustomLoggerCall- WARNING : warn message
+11-07-2023 01:14:07 PM -CustomLoggerCall- ERROR : error message
+11-07-2023 01:14:07 PM -CustomLoggerCall- CRITICAL : critical message
